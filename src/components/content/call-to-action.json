@@ -12,6 +12,9 @@
     },
     "text": {
       "type": "text"
+    },
+    "labelButton": {
+      "type": "string"
     }
   }
 }
