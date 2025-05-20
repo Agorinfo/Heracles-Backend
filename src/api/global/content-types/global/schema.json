@@ -78,8 +78,11 @@
     "NewsletterFormMessage": {
       "type": "string"
     },
-    "maintenance": {
-      "type": "boolean"
+    "archiveRessources": {
+      "displayName": "archiveRessources",
+      "type": "component",
+      "repeatable": false,
+      "component": "content.archive-ressources"
     }
   }
 }
